@@ -1,0 +1,15 @@
+/home/lazaro/dev/estacionamento/bin/Debug/net6.0/estacionamento
+/home/lazaro/dev/estacionamento/bin/Debug/net6.0/estacionamento.deps.json
+/home/lazaro/dev/estacionamento/bin/Debug/net6.0/estacionamento.runtimeconfig.json
+/home/lazaro/dev/estacionamento/bin/Debug/net6.0/estacionamento.dll
+/home/lazaro/dev/estacionamento/bin/Debug/net6.0/ref/estacionamento.dll
+/home/lazaro/dev/estacionamento/bin/Debug/net6.0/estacionamento.pdb
+/home/lazaro/dev/estacionamento/obj/Debug/net6.0/estacionamento.csproj.AssemblyReference.cache
+/home/lazaro/dev/estacionamento/obj/Debug/net6.0/estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/lazaro/dev/estacionamento/obj/Debug/net6.0/estacionamento.AssemblyInfoInputs.cache
+/home/lazaro/dev/estacionamento/obj/Debug/net6.0/estacionamento.AssemblyInfo.cs
+/home/lazaro/dev/estacionamento/obj/Debug/net6.0/estacionamento.csproj.CoreCompileInputs.cache
+/home/lazaro/dev/estacionamento/obj/Debug/net6.0/estacionamento.dll
+/home/lazaro/dev/estacionamento/obj/Debug/net6.0/ref/estacionamento.dll
+/home/lazaro/dev/estacionamento/obj/Debug/net6.0/estacionamento.pdb
+/home/lazaro/dev/estacionamento/obj/Debug/net6.0/estacionamento.genruntimeconfig.cache
